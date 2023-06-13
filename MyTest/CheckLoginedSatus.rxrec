@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<recordtable
+embeddedrepository="False"
+id="3c481af5-aeed-4a3d-9876-43982eaa7464"
+mode="Global">
+	<description>
+		The CheckLoginedSatus recording.
+	</description>
+	<repeatcount>
+		1
+	</repeatcount>
+	<turbomode>
+		False
+	</turbomode>
+	<genreport>
+		True
+	</genreport>
+	<speedfactor>
+		1
+	</speedfactor>
+	<useDefaultItemLogging>
+		True
+	</useDefaultItemLogging>
+	<codegen
+	classname="CheckLoginedSatus"
+	namespace="MyTest">
+	</codegen>
+	<variables>
+	</variables>
+	<recorditems>
+		<validationitem
+		action="Exists"
+		enabled="True"
+		optional="False"
+		searchpropertyid="6cb7ce81-2497-43f8-aa1f-2d7504b356c1"
+		similarity="1">
+			<comment>
+			</comment>
+			<bindings>
+			</bindings>
+			<info
+			id="d46def42-8621-40e9-a8db-06673450df18"
+			sourcename="ItemRecorderEditor">
+				<path>
+					/dom[@domain='t.keirin.kdreams.jp']/html//div[@id='MAIN']//div[@class='member_section']/p[@class='message']
+				</path>
+				<robustPath>
+				</robustPath>
+			</info>
+			<matchname>
+				Text
+			</matchname>
+			<matchvalue>
+				yourtext
+			</matchvalue>
+		</validationitem>
+	</recorditems>
+	<repository
+	id="4bf1d6ce-fe3a-4a52-b07e-93c02e2ecc27"
+	name="MyTestRepository"
+	relativepath="MyTestRepository.rxrep">
+		<codegen
+		classname="MyTestRepository"
+		namespace="MyTest">
+		</codegen>
+		<rootfolder
+		id="0bc3d6e8-563a-4ef8-83ae-f710cc93f1c5"
+		name="_rootdummy_">
+		</rootfolder>
+	</repository>
+	<usercodefile
+	lang="CSharp">
+		CheckLoginedSatus.UserCode.cs
+	</usercodefile>
+	<references>
+	</references>
+</recordtable>

@@ -1,0 +1,81 @@
+﻿<repository
+id="4bf1d6ce-fe3a-4a52-b07e-93c02e2ecc27"
+name="MyTestRepository">
+	<codegen
+	classname="MyTestRepository"
+	namespace="MyTest">
+	</codegen>
+	<rootfolder
+	capname="unknown"
+	id="0bc3d6e8-563a-4ef8-83ae-f710cc93f1c5"
+	isrooted="True"
+	name="Root"
+	searchtimeout="0ms"
+	usecache="True">
+		<appfolder
+		addcaps="container,webdocument"
+		capname="webdocument"
+		id="81f7f6b6-051b-47bc-9c43-c66c557c9dfa"
+		isrooted="True"
+		name="RakutenKdreams"
+		searchtimeout="30000ms"
+		usecache="False">
+			<item
+			capname="inputtag"
+			id="8096ae46-c355-4dc0-94fa-a09d2e16b858"
+			name="TxtUsername"
+			robustPath="/dom[@domain='t.keirin.kdreams.jp']/element"
+			searchtimeout="30000ms">
+				/dom[@domain='t.keirin.kdreams.jp']//form[@id='JS_FORM_LOGIN']//input[@name='userid']
+			</item>
+			<item
+			capname="inputtag"
+			id="b4a2258f-8f2b-4b86-b35d-c9e8fcb99820"
+			name="TxtPassword"
+			robustPath="/dom[@domain='t.keirin.kdreams.jp']/element"
+			searchtimeout="30000ms">
+				/dom[@domain='t.keirin.kdreams.jp']//input[@name='password']
+			</item>
+			<item
+			addcaps="unknown,webelement,ptag"
+			capname="ptag"
+			id="d46def42-8621-40e9-a8db-06673450df18"
+			name="Lblログイン中"
+			refimgid="dc3dbe7c-c447-48f5-88e5-c148c0679d9b"
+			robustPath="/dom[@domain='t.my.keirin.kdreams.jp']//div[#'MAIN']//p[@innertext='ログイン中']"
+			searchtimeout="30000ms">
+				/dom[@domain='t.keirin.kdreams.jp']/html//div[@id='MAIN']//div[@class='member_section']/p[@class='message']
+			</item>
+			<item
+			capname="ptag"
+			id="536f1184-a9ff-47c8-b1c8-5480d85a7709"
+			name="BtnLogin"
+			robustPath="/dom[@domain='t.keirin.kdreams.jp']/element"
+			searchtimeout="30000ms">
+				/dom[@domain='t.keirin.kdreams.jp']//p[#'JS_GO_LOGIN']
+			</item>
+			<basepath>
+				/dom[@domain='t.keirin.kdreams.jp']
+			</basepath>
+			<icon>
+				iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAALGPC/xhBQAAACBjSFJN
+AAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAGHRFWHRTb2Z0d2FyZQBQYWlu
+dC5ORVQgdjMuMzE3g3eGAAACKklEQVQ4T43R20vTcRjHcS/6G4Kgyy6KKKjwJogIDBJjIBUt2YVD
+yoGVmWUWzozMC92YaWqeSE1s0dThOtjBWUlKkMxDudXU1lCU6XSepzu82+/nvNrX6APP1e95Xt/f
+9/vEbaWh7TO1xi4qmjspfWKhuLqN++VGtLqn5BTVk1lQRbRVHGn4X8nTNclYtD020smBYDjaHhsJ
+cIxPbY8YIr+9viEGgqGwDBxLvixXfGJaLCLdedUfCwRDyPDKWoiF5SAuT0AMSA+2BXhXZqmydFBu
+bkfbmkFpayPOyQW8CwHs7jUxIN1NOkEa1llLGA7bsYX7KbTd4GiuiUuVbxhyzTMwuiwGpFX5lkLU
+dFjJ+55Mw5yGGpsRtX6Kk2Ue9jWewtBRx9eRJTEg7XnWF+TBo25SzUmo3inINLjIKoPD1QXsbNvN
+6fxr9Az5xIDm9kOm5gLce+xEW/aF1BYlCmshSr2PMxm32HV3B8ez0/jQPycG1NklTMxsUGUaQaMD
+lc7EIcse4vXJJF18xX7FVUpq6njd5xUDKVeKcE2v4xib52bxIAdza9mbf4CE9OscUZo5q3nO295p
+zD0zYuBcegHOCb+8KpvDi6G5hRMX8klIKaei6b083PdjCdNHjxhQqO/gcPsj77CB27PO2OQa9j+r
+8tq+/VyODC/yaXBxeyBRlUPv8Dzt3eO86PrNs85Rml7+ot7soLrVTqVpsypMTjGQcD5L/vC/tTkV
+F/cXNG0rDkAnVtkAAAAASUVORK5CYII=
+			</icon>
+		</appfolder>
+		<basepath>
+		</basepath>
+	</rootfolder>
+	<variables>
+	</variables>
+</repository>
