@@ -1,0 +1,12 @@
+C:\Users\nam.thanh.nguyen\Documents\Ranorex\RanorexStudio Projects\MyTest\MyTest\bin\Debug\MyTest.rxtmg
+C:\Users\nam.thanh.nguyen\Documents\Ranorex\RanorexStudio Projects\MyTest\MyTest\bin\Debug\MyTest.rxtst
+C:\Users\nam.thanh.nguyen\Documents\Ranorex\RanorexStudio Projects\MyTest\MyTest\bin\Debug\MyTest.exe.config
+C:\Users\nam.thanh.nguyen\Documents\Ranorex\RanorexStudio Projects\MyTest\MyTest\bin\Debug\MyTest.xml
+C:\Users\nam.thanh.nguyen\Documents\Ranorex\RanorexStudio Projects\MyTest\MyTest\bin\Debug\MyTest.exe
+C:\Users\nam.thanh.nguyen\Documents\Ranorex\RanorexStudio Projects\MyTest\MyTest\bin\Debug\MyTest.pdb
+C:\Users\nam.thanh.nguyen\Documents\Ranorex\RanorexStudio Projects\MyTest\MyTest\bin\Debug\Ranorex.Core.Resolver.dll
+C:\Users\nam.thanh.nguyen\Documents\Ranorex\RanorexStudio Projects\MyTest\MyTest\obj\x86\Debug\MyTest.csproj.AssemblyReference.cache
+C:\Users\nam.thanh.nguyen\Documents\Ranorex\RanorexStudio Projects\MyTest\MyTest\obj\x86\Debug\MyTest.csproj.CoreCompileInputs.cache
+C:\Users\nam.thanh.nguyen\Documents\Ranorex\RanorexStudio Projects\MyTest\MyTest\obj\x86\Debug\MyTest.csproj.CopyComplete
+C:\Users\nam.thanh.nguyen\Documents\Ranorex\RanorexStudio Projects\MyTest\MyTest\obj\x86\Debug\MyTest.exe
+C:\Users\nam.thanh.nguyen\Documents\Ranorex\RanorexStudio Projects\MyTest\MyTest\obj\x86\Debug\MyTest.pdb

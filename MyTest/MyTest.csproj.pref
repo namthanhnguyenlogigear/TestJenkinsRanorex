@@ -1,0 +1,14 @@
+﻿<Properties>
+  <Array name="active">
+    <Element value="LoginAccount.UserCode.cs" />
+  </Array>
+  <Array name="bookmarks" />
+  <Array name="files">
+    <Element value="MyTest.rxtst" />
+    <Element value="LoginAccount.rxrec" />
+    <Element value="LoginAccount.UserCode.cs" />
+  </Array>
+  <Properties name="projectSavedData">
+    <Array name="recentusercodeselections" />
+  </Properties>
+</Properties>
